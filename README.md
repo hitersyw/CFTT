@@ -10,6 +10,11 @@ Correlation Filters Tissue Tracking with Application to Robotic Minimally Invasi
 
 The Cholec_tissue dataset can be download at 链接：https://pan.baidu.com/s/1gbqi9T3ob1ytjEUIQHuhHA  提取码：hit1 
 
+The video results as supplementary material can be download at 
+
+
+Upon publication of this manuscript, the implementation details and code will be available online.
+
 For further question about the code or paper, please contact
 
 Yanwen Sun sywhit@hotmail.com Wechat:15776763591
